@@ -28,4 +28,4 @@ This repository is released under the BSD 3-Clause "New" or "Revised" License.
 
 ## Patent Notice
 
-Parts of this work may be covered by a pending Chinese patent application. This software release does not grant any express or implied licenses to any party's patent rights.
+Parts of this work may be covered by a pending Chinese patent application. This code release does not grant any express or implied licenses to any party's patent rights.
